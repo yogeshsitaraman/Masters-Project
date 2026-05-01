@@ -1,0 +1,14 @@
+{
+  "n_lags": 5,
+  "input_dim": 17,
+  "hidden1": 100,
+  "hidden2": 45,
+  "output_dim": 2,
+  "lr": 0.0004348475420384577,
+  "weight_decay": 6.760738331770519e-06,
+  "T_B_RANGE": 300.0,
+  "X_DB_RANGE": 1.0,
+  "horizon_steps": 30,
+  "n_batches": 20,
+  "batch_seed": 42
+}
